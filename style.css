@@ -27,6 +27,21 @@ body {
     margin-right: 150px;
 }
 
+.icon {
+    width: 32%;
+    display: block;
+    margin: 0 auto; 
+}
+
+.full_name {
+    background: -webkit-linear-gradient(45deg, #ff66cc, #ff0066);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 24px;
+    margin-top: 10px;
+    text-align: center;
+}
+
 .header_text {
     font-family: 'Nunito';
     font-size: 50px;
